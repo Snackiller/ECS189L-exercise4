@@ -1,0 +1,8 @@
+"charge.wav" from [off.kawabunga.wav](https://freesound.org/people/soundfreakthony/sounds/240944/) by soundfreakthony licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)  
+"explode.wav" from [Mecha - Effects - Elements - Impact 01](https://freesound.org/people/GregorQuendel/sounds/422114/) by GregorQuendel licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)  
+"factory.wav" from [short composition 01.wav](https://freesound.org/people/neizvestnost/sounds/184464/) by neizvestnost licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)  
+"fire.flac" from [laser blast 2.flac](https://freesound.org/people/neopolitansixth/sounds/582463/) by neopolitansixth licensed under [Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)  
+"shrink.wav" from [etl Ant Explodes 24-96.wav](https://freesound.org/people/cmusounddesign/sounds/95885/) by cmusounddesign licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+"energy launch.wav" from [heavy 2.wav](https://freesound.org/people/TRXone/sounds/475143/) by TRXone licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+"physical launch.wav" from [Plasma - Lazer Pistol Gun Shot 1](https://freesound.org/people/Erokia/sounds/427396/) by Erokia licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/3.0/)
+"rumble charge.wav" from [SFX-electrostatic-rumble.wav](https://freesound.org/people/henrikcederblad/sounds/620170/) by henrikcederblad licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/3.0/)
